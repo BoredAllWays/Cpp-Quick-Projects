@@ -1,3 +1,6 @@
+
+//This is just a prototype and is not completly correct. Also sorry for the bad variable naming, I'll try to use snake_case after this.
+
 #include <iostream>
 using std::cout;
 using std::string;
